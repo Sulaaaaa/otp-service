@@ -33,7 +33,7 @@ build/
 ### VS Code ###
 .vscode/
 
-applications.properties
+src/main/java/resources/applications.properties
 
 
 
